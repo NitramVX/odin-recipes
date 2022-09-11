@@ -1,0 +1,17 @@
+
+img{  
+    width: inherit;
+    height:100%;
+    width: 300px;
+}
+
+h1{
+    font-size: 50px;
+    position: absolute;
+    z-index: 100;
+    padding-left: 10px;
+}
+
+ul{
+    font-size: 20px;
+}
